@@ -1,7 +1,7 @@
 # Plant Co
-Power BI Project
+A Power BI Project
 
-# [Dashboard]()
+## [Dashboard](https://github.com/colinryanx/Plant-Co/blob/main/Plant%20Co.%20Performance.pdf)
 ![Plant Co  Gross Profit Performance 2023](https://github.com/colinryanx/Plant-Co/assets/171652558/2d688e7c-0216-4ea8-96b7-fa2dc9645a14)
 
 
