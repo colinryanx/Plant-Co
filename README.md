@@ -7,7 +7,7 @@ Plant Co seeks to gain a comprehensive understanding of its financial and sales 
 ## Objective
  To analyze the Gross Profit, Quantity, and Sales Performance of the Plant Co for years 2023 and 2024.
 
-## Steps made for this Project
+## Steps made on this project
 - ETL Using Power Query
 - Created Relationship Model for the Tables
 - Utilized DAX for custom columns and measures
