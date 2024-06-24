@@ -1,5 +1,5 @@
 # Plant Co
-A Power BI Project
+Power BI Project idea from [Mo Chen](https://www.youtube.com/@mo-chen)
 
 ## Problem Statement
 Plant Co seeks to gain a comprehensive understanding of its financial and sales performance over the years 2023 and 2024. The company aims to analyze its Gross Profit, Quantity sold, and overall Sales Performance to identify trends, opportunities for growth, and areas that require improvement. By conducting a detailed analysis of these key performance indicators (KPIs), Plant Co intends to make data-driven decisions to enhance its profitability, optimize inventory management, and improve sales strategies. This analysis will provide insights into how the company has performed over the two years and help in forecasting future performance and setting strategic goals.
